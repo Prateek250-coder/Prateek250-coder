@@ -3,12 +3,12 @@
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+SUMIT+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+PRATEEK+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <p align="center">
     <br>Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Sumit4509/count.svg" />
+    <img src="https://profile-counter.glitch.me/Prateek-250coder/count.svg" />
 </p>
 
 <div align="center">
@@ -62,16 +62,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Sumit4509&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4509&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Prateek250-coder&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek250-coder&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </div>
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/sumit0945?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/prateekVerma123?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
-    <a href="https://www.geeksforgeeks.org/user/sumitkumar4509
+    <a href=https://www.geeksforgeeks.org/user/vermapradu8i/
 /" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
     </a>
